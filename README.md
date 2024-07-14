@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I am Jinyao
 
-<!--
-**cjy513203427/cjy513203427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on IADBE (Industrial Anomaly Detection Benchmark Engine) project.
+- 🌱 I’m currently learning Blender, AngualarJS, Breakdance...
+- 👯 I’m seeking a job in software development, data science, or game development in Germany.
+- 📫 How to reach me:
+     - Email: [cjy513203427@gmail.com](mailto:cjy513203427@gmail.com)
+     - LinkedIn: [Jinyao Chen](https://www.linkedin.com/in/jinyao-chen-8b5b29225/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjy513203427&show_icons=true&theme=transparent)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cjy513203427)](https://git.io/streak-stats)
+
+<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjy513203427&theme=radical&layout=compact&hide=jupyter%20notebook" />
+
+
