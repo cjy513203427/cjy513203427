@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently engaged in the IADBE (Industrial Anomaly Detection Benchmark Engine) project, which is also my master's thesis.
 - 🌱 I’m learning Blender, AngularJS, and Breakdance.
-- 👯 I’m seeking a job in software development, data science, or game development in Germany.
 - 📫 How to reach me:
      - Email: [cjy513203427@gmail.com](mailto:cjy513203427@gmail.com)
      - LinkedIn: [Jinyao Chen](https://www.linkedin.com/in/jinyao-chen-8b5b29225/)
