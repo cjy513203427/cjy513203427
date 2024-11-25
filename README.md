@@ -1,7 +1,7 @@
 ## Hi there, I am Jinyao
 
-- 🔭 I’m currently engaged in the IADBE (Industrial Anomaly Detection Benchmark Engine) project, which is also my master's thesis.
-- 🌱 I’m learning Blender, AngularJS, and Breakdance.
+- 🔭 I’m working on open source projects.
+- 🌱 I’m learning Blender, Git, and Breakdance.
 - 📫 How to reach me:
      - Email: [cjy513203427@gmail.com](mailto:cjy513203427@gmail.com)
      - LinkedIn: [Jinyao Chen](https://www.linkedin.com/in/jinyao-chen-8b5b29225/)
