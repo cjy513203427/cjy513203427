@@ -15,7 +15,6 @@
 ## 📊 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cjy513203427&show_icons=true&theme=transparent&hide_title=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cjy513203427&theme=transparent" height="180px"/>
 </div>  
 
 ---
