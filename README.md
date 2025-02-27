@@ -26,13 +26,6 @@
 
 ---
 
-## 🔥 Most Used Languages  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjy513203427&theme=radical&layout=compact&hide=jupyter%20notebook" />
-</div>  
-
----
-
 ## 🧑‍💻 Recent Activity  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cjy513203427&theme=react-dark&hide_border=true" />
