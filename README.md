@@ -2,7 +2,7 @@
 
 ## 🚀 About Me  
 - 🔥 Passionate about **open-source development**, always eager to contribute to the community.  
-- 🎨 Currently diving into **Blender**, mastering **Git**, and leveling up my **Breakdance** skills.  
+- 🎨 Currently diving into **Blender**, mastering **Git** and **Docker**.  
 - 🎧 Exploring the world of **DJing** while sharpening my **Japanese (JLPT N3)**.  
 - 🎸 Jamming on the **guitar** and expressing creativity through **art & drawing**.  
 - 🏋️‍♂️ Training **breaking** at Unisport, pushing my limits with new moves.  
