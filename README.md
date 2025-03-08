@@ -1,13 +1,16 @@
 # Hi there, I'm Jinyao! 👋  
 
 ## 🚀 About Me  
-- 🔭 Passionate about **open-source projects** and contributing to the community.  
-- 🌱 Currently learning **Blender**, **Git**, and **Breakdance**.  
-- 🎸 Exploring **DJing** and improving my **Japanese (JLPT N3)**.  
-- 🏋️‍♂️ Training **breaking** and **acrobatics** at Unisport.  
-- 💻 Working as a **full-stack software developer** in industrial software.  
-- 🎓 Completed my **Master’s in Computer Science**.  
-- 📫 Reach me at:  
+- 🔥 Passionate about **open-source development**, always eager to contribute to the community.  
+- 🎨 Currently diving into **Blender**, mastering **Git**, and leveling up my **Breakdance** skills.  
+- 🎧 Exploring the world of **DJing** while sharpening my **Japanese (JLPT N3)**.  
+- 🎸 Jamming on the **guitar** and expressing creativity through **art & drawing**.  
+- 🏋️‍♂️ Training **breaking** at Unisport, pushing my limits with new moves.  
+- 💻 Crafting industrial software as a **full-stack developer**.  
+- 🎓 Earned my **Master’s in Computer Science**, always hungry for knowledge.  
+- 🌍 Fluent in **Chinese, English, and German**.  
+
+📬 **Get in touch:**  
   - ✉️ [cjy513203427@gmail.com](mailto:cjy513203427@gmail.com)  
 
 ---
@@ -70,12 +73,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,maven,gradle,npm,yarn,cmake,ps,powershell,latex,vim,qt,ai,blender,unity,unreal" />
 </p>
-
----
-
-## 🎯 Fun Fact  
-> I started learning **breaking** at 27, even though people say it's best learned in adolescence.  
-> I was inspired by a man in his 50s who started in his 40s—it's never too late! 🔥  
 
 ---
 
