@@ -40,8 +40,6 @@
 ### 🚀 Programming Languages  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,go,java,python,kotlin,ts,js,php,lua,matlab" />
-  <img src="https://intersystems.gallerycdn.vsassets.io/extensions/intersystems/language-server/2.7.0/1738591108470/Microsoft.VisualStudio.Services.Icons.Default" width="50px" />
-
 </p>
 
 ### 🗄️ Databases  
