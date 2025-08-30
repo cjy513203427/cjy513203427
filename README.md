@@ -39,7 +39,7 @@
 ## 🖥️ Tech Stack  
 ### 🚀 Programming Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,go,java,python,kotlin,ts,js,php,lua,matlab" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,go,java,python,kotlin,ts,js,php,lua,matlab,ruby" />
 </p>
 
 ### 🗄️ Databases  
@@ -49,12 +49,12 @@
 
 ### 🔧 Frameworks & Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,django,flask,fastapi,nestjs,express,graphql,hibernate,sklearn,tensorflow,pytorch,selenium,regex" />
+  <img src="https://skillicons.dev/icons?i=spring,django,flask,fastapi,dotnet,nestjs,express,graphql,hibernate,sklearn,tensorflow,pytorch,selenium,regex" />
 </p>
 
 ### 🏗️ DevOps & Cloud  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,nginx,jenkins,redhat,ubuntu,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,aws,nginx,jenkins,redhat,ubuntu,linux" />
 </p>
 
 ### 💻 Development Tools  
@@ -64,12 +64,12 @@
 
 ### 🎨 Frontend & UI/UX  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,angular,jquery" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,angular,jquery,astro,vue" />
 </p>
 
 ### 🛠️ Other Tools & Utilities  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,maven,gradle,npm,yarn,cmake,ps,powershell,latex,vim,qt,ai,blender,unity,unreal" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,maven,grafana,prometheus,gradle,npm,yarn,cmake,ps,powershell,latex,vim,qt,ai,blender,unity,unreal" />
 </p>
 
 ---
