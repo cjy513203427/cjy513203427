@@ -1,14 +1,11 @@
 # Hi there, I'm Jinyao! 👋  
 
 ## 🚀 About Me  
-- 🔥 Passionate about **open-source development**, always eager to contribute to the community.  
-- 🎨 Currently diving into **Blender** and **Compilers**.  
-- 🎧 Exploring the world of **DJing** while sharpening my **Japanese (JLPT N3)**.  
-- 🎸 Jamming on the **guitar** and expressing creativity through **art & drawing**.  
-- 🏋️‍♂️ Training **breaking** at Unisport, pushing my limits with new moves.  
-- 💻 Crafting industrial software as a **full-stack developer**.  
-- 🎓 Earned my **Master’s in Computer Science**, always hungry for knowledge.  
-- 🌍 Fluent in **Chinese, English, and German**.  
+- 🔥 Open-source enthusiast | 💻 Full-stack developer crafting industrial software
+- 🎨 Deep diving into Compilers & Linux Kernel
+- 🎓 MSc Computer Science @ TU Darmstadt
+- 🏋️ Breaking dancer | 🎸 Guitar & art on the side
+- 🌍 Chinese | English | German | 日本語 (B2) | 한국어 (A1) | Русский (A1)
 
 📬 **Get in touch:**  
   - ✉️ [cjy513203427@gmail.com](mailto:cjy513203427@gmail.com)  
