@@ -12,13 +12,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cjy513203427&show_icons=true&theme=transparent&hide_title=true" height="180px"/>
-</div>  
-
----
-
 ## 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=cjy513203427&theme=gruvbox&margin-w=10&margin-h=10" />
