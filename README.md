@@ -30,7 +30,7 @@
 ## Tech Stack
 ### 🤖 AI & GenAI Stack
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini,claude,cursor&titles=true&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini,claude,cursor,githubcopilot,langchain,ollama,huggingface,streamlit&titles=true&theme=dark" />
 </p>
 
 ### 🚀 Programming Languages
@@ -50,7 +50,7 @@
 
 ### 🏗️ DevOps & Cloud  
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,azure,aws,nginx,jenkins,redhat,ubuntu,linux&titles=true&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda,docker,kubernetes,azure,aws,nginx,jenkins,redhat,ubuntu,linux&titles=true&theme=dark" />
 </p>
 
 ### 💻 Development Tools  
