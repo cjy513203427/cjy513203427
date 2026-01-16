@@ -26,40 +26,46 @@
 
 ---
 
-## 🖥️ Tech Stack  
-### 🚀 Programming Languages  
+
+## Tech Stack
+### 🤖 AI & GenAI Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,go,java,python,kotlin,ts,js,php,lua,matlab,ruby" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini,claude,cursor&titles=true&theme=dark" />
+</p>
+
+### 🚀 Programming Languages
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,go,java,python,kotlin,ts,js,php,lua,matlab,ruby&titles=true&theme=dark" />
 </p>
 
 ### 🗄️ Databases  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,sqlite,mongodb,redis&titles=true&theme=dark" />
 </p>
 
 ### 🔧 Frameworks & Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,django,flask,fastapi,dotnet,nestjs,express,graphql,hibernate,sklearn,tensorflow,pytorch,selenium,regex" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,django,flask,fastapi,dotnet,nestjs,express,graphql,hibernate,sklearn,tensorflow,pytorch,selenium,regex&titles=true&theme=dark" />
 </p>
 
 ### 🏗️ DevOps & Cloud  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,aws,nginx,jenkins,redhat,ubuntu,linux" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,azure,aws,nginx,jenkins,redhat,ubuntu,linux&titles=true&theme=dark" />
 </p>
 
 ### 💻 Development Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=idea,eclipse,clion,pycharm,rider,androidstudio,visualstudio,vscode,webstorm" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=idea,eclipse,clion,pycharm,rider,androidstudio,visualstudio,vscode,webstorm&titles=true&theme=dark" />
 </p>
 
 ### 🎨 Frontend & UI/UX  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,angular,jquery,astro,vue" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,react,angular,jquery,astro,vue&titles=true&theme=dark" />
 </p>
 
 ### 🛠️ Other Tools & Utilities  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,maven,grafana,prometheus,gradle,npm,yarn,cmake,ps,powershell,latex,vim,qt,ai,blender,unity,unreal" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,maven,grafana,prometheus,gradle,npm,yarn,cmake,ps,powershell,latex,vim,qt,ai,blender,unity,unreal&titles=true&theme=dark" />
 </p>
 
 ---
