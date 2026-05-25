@@ -1,14 +1,29 @@
 # Hi there, I'm Jinyao! 👋  
 
 ## 🚀 About Me  
-- 🔥 Open-source enthusiast | 💻 Full-stack developer crafting industrial software
-- 🎨 Deep diving into Compilers & Linux Kernel
+- 🔥 **Software 3.0 Explorer** | Building Agentic AI Infrastructure & Tooling Ecosystem (MCP)
+- 💻 Full-stack developer crafting high-performance industrial software
+- 🎨 Deep diving into Compilers, CUDA & Linux Kernel Optimization
 - 🎓 MSc Computer Science @ TU Darmstadt
 - 🏋️ Breaking dancer | 🎸 Guitar & art on the side
 - 🌍 Chinese | English | German | 日本語 (B2) | 한국어 (A1) | Русский (A1)
 
 📬 **Get in touch:**  
   - ✉️ [cjy513203427@gmail.com](mailto:cjy513203427@gmail.com)  
+
+---
+
+## 📦 Featured Open Source (Software 3.0 & DevTools)
+
+### 🤖 [intersystems-objectscript-routine-mcp](https://www.npmjs.com/package/intersystems-objectscript-routine-mcp)
+> **Software 3.0 Ecosystem:** An open-source Model Context Protocol (MCP) server that bridges LLMs (like Claude/Cursor) with InterSystems IRIS, empowering AI agents to seamlessly inspect, read, and manage server routines.
+> 
+> 📦 **[Available on npm](https://www.npmjs.com/package/intersystems-objectscript-routine-mcp)** | 💻 **[GitHub Repository](https://github.com/cjy513203427/intersystems-objectscript-routine-mcp)**
+
+### 🔌 [InterSystems ObjectScript Class Diagram View](https://marketplace.visualstudio.com/items?itemName=JinyaoChen.intersystems-objectscript-class-diagram-view)
+> **Developer Tooling:** A VS Code extension designed to visualize InterSystems ObjectScript class structures into interactive diagrams, drastically improving architectural comprehension.
+> 
+> 🔗 **[View on VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=JinyaoChen.intersystems-objectscript-class-diagram-view)**
 
 ---
 
@@ -25,7 +40,6 @@
 </p>  
 
 ---
-
 
 ## Tech Stack
 ### 🤖 AI & GenAI Stack
@@ -71,6 +85,4 @@
 ---
 
 ## 🚀 Keep Pushing Forward!  
-✨ **Always stay passionate, keep learning, and never give up!** ✨  
-
----
+✨ **Always stay passionate, keep learning, and never give up!** ✨
