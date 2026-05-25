@@ -8,8 +8,7 @@
 - 🏋️ Breaking dancer | 🎸 Guitar & art on the side
 - 🌍 Chinese | English | German | 日本語 (B2) | 한국어 (A1) | Русский (A1)
 
-📬 **Get in touch:**  
-  - ✉️ [cjy513203427@gmail.com](mailto:cjy513203427@gmail.com)  
+📬 **Get in touch:** - ✉️ [cjy513203427@gmail.com](mailto:cjy513203427@gmail.com)  
 
 ---
 
@@ -41,45 +40,29 @@
 
 ---
 
-## Tech Stack
-### 🤖 AI & GenAI Stack
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini,claude,cursor,githubcopilot,langchain,ollama,huggingface,streamlit&titles=true&theme=dark" />
+## 🛠️ Technical Focus & Stack
+
+### 🤖 AI, GenAI & Software 3.0
+> Focus on maximizing token leverage, building resilient tool-use schemas (MCP), and optimizing multi-agent context windows.
+- **Orchestration & Agents:** LangChain, Ollama, Hugging Face, Streamlit
+- **AI Coding & Protocols:** Model Context Protocol (MCP), Cursor, GitHub Copilot
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini,claude,cursor,githubcopilot,langchain,ollama,huggingface,streamlit&theme=dark" />
 </p>
 
-### 🚀 Programming Languages
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,go,java,python,kotlin,ts,js,php,lua,matlab,ruby&titles=true&theme=dark" />
+### 💻 Systems & Core Languages
+> Deep diving into Compilers, CUDA, and Linux Kernel performance optimization.
+- **Production Languages:** C, C++, Go, Python, TypeScript, JavaScript
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,go,python,ts,js&theme=dark" />
 </p>
 
-### 🗄️ Databases  
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,sqlite,mongodb,redis&titles=true&theme=dark" />
-</p>
-
-### 🔧 Frameworks & Technologies  
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,django,flask,fastapi,dotnet,nestjs,express,graphql,hibernate,sklearn,tensorflow,pytorch,selenium,regex&titles=true&theme=dark" />
-</p>
-
-### 🏗️ DevOps & Cloud  
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda,docker,kubernetes,azure,aws,nginx,jenkins,redhat,ubuntu,linux&titles=true&theme=dark" />
-</p>
-
-### 💻 Development Tools  
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=idea,eclipse,clion,pycharm,rider,androidstudio,visualstudio,vscode,webstorm&titles=true&theme=dark" />
-</p>
-
-### 🎨 Frontend & UI/UX  
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,react,angular,jquery,astro,vue&titles=true&theme=dark" />
-</p>
-
-### 🛠️ Other Tools & Utilities  
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,maven,grafana,prometheus,gradle,npm,yarn,cmake,ps,powershell,latex,vim,qt,ai,blender,unity,unreal&titles=true&theme=dark" />
+### 🏗️ Backend, Infrastructure & Modern Web
+> Crafting robust, high-throughput industrial pipelines and highly responsive applications.
+- **Frameworks & ML:** FastAPI, NestJS, Express, Astro, React, PyTorch
+- **Data & DevOps:** PostgreSQL, Redis, Docker, Kubernetes, Linux, Git
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,nestjs,express,astro,react,pytorch,postgres,redis,docker,kubernetes,linux,git&theme=dark" />
 </p>
 
 ---
