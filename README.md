@@ -35,7 +35,7 @@
 
 ## 🧑‍💻 Recent Activity  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cjy513203427&theme=react-dark&hide_border=true" />
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=cjy513203427&theme=react-dark&hide_border=true" />
 </p>  
 
 ---
