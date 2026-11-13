@@ -35,7 +35,8 @@
   </tr>
 </table>
 
-### KpopBase in Action
+<details>
+<summary><strong>KpopBase in Action</strong> · Explore the features · 4 previews</summary>
 
 Discover groups, explore member profiles, browse releases, and follow the numbers behind K-pop.
 
@@ -70,7 +71,10 @@ Discover groups, explore member profiles, browse releases, and follow the number
   </tr>
 </table>
 
-### ChipRanks in Action
+</details>
+
+<details>
+<summary><strong>ChipRanks in Action</strong> · Explore the features · 4 previews</summary>
 
 Explore visual performance ladders, inspect individual chip specifications, and browse consumer and data center hardware.
 
@@ -104,6 +108,8 @@ Explore visual performance ladders, inspect individual chip specifications, and 
     </td>
   </tr>
 </table>
+
+</details>
 
 ---
 
