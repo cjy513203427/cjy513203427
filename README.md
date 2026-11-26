@@ -5,7 +5,7 @@
 - 💻 Full-stack developer crafting high-performance industrial software
 - 🎨 Deep diving into Compilers, CUDA & Linux Kernel Optimization
 - 🎓 MSc Computer Science @ TU Darmstadt
-- 🏋️ Breaking dancer | 🎸 Guitar & art on the side
+- 🏋️ Breaking and Kpop dancer | 🎸 Guitar & art on the side
 - 🌍 Chinese | English | German | 日本語 (B2) | 한국어 (A1) | Русский (A1)
 
 📬 **Get in touch:** - ✉️ [cjy513203427@gmail.com](mailto:cjy513203427@gmail.com)  
